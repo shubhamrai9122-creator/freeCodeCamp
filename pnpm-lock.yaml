@@ -175,7 +175,7 @@ importers:
         specifier: 16.6.1
         version: 16.6.1
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
     devDependencies:
       '@freecodecamp/eslint-config':
@@ -384,7 +384,7 @@ importers:
         specifier: 7.4.4
         version: 7.4.4
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       eslint-plugin-jsdoc:
         specifier: 48.11.0
@@ -519,7 +519,7 @@ importers:
         specifier: 3.2.0
         version: 3.2.0(date-fns@4.1.0)
       eslint-config-react-app:
-        specifier: ^7.0.1
+        specifier: 7.0.1
         version: 7.0.1(@babel/plugin-syntax-flow@7.27.1(@babel/core@7.28.5(supports-color@8.1.1)))(@babel/plugin-transform-react-jsx@7.28.6(@babel/core@7.28.5(supports-color@8.1.1))(supports-color@8.1.1))(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       final-form:
         specifier: 4.20.10
@@ -796,10 +796,10 @@ importers:
         specifier: 16.6.1
         version: 16.6.1
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       eslint-plugin-flowtype:
-        specifier: ^8.0.3
+        specifier: 8.0.3
         version: 8.0.3(@babel/plugin-syntax-flow@7.27.1(@babel/core@7.28.5(supports-color@8.1.1)))(@babel/plugin-transform-react-jsx@7.28.6(@babel/core@7.28.5(supports-color@8.1.1))(supports-color@8.1.1))(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))
       gatsby-plugin-pnpm-gatsby-5:
         specifier: 1.2.11
@@ -947,7 +947,7 @@ importers:
         specifier: workspace:*
         version: link:../packages/shared
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       typescript:
         specifier: 5.9.3
@@ -987,7 +987,7 @@ importers:
         specifier: 3.2.4
         version: 3.2.4(vitest@3.2.4)
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       jsdom:
         specifier: 26.1.0
@@ -1042,13 +1042,13 @@ importers:
         specifier: 7.26.3
         version: 7.26.3(@babel/core@7.28.5(supports-color@8.1.1))(supports-color@8.1.1)
       '@eslint/compat':
-        specifier: ^1.2.6
+        specifier: 1.4.1
         version: 1.4.1(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))
       '@eslint/eslintrc':
-        specifier: ^3.2.0
+        specifier: 3.3.7
         version: 3.3.7(supports-color@8.1.1)
       '@eslint/js':
-        specifier: ^9.19.0
+        specifier: 9.39.5
         version: 9.39.5
       '@html-eslint/eslint-plugin-react':
         specifier: ^0.60.0
@@ -1057,13 +1057,13 @@ importers:
         specifier: 1.6.16
         version: 1.6.16(@typescript-eslint/eslint-plugin@8.70.1(@typescript-eslint/parser@8.70.1(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)(vitest@4.1.11)
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       eslint-config-prettier:
         specifier: 10.1.8
         version: 10.1.8(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))
       eslint-import-resolver-typescript:
-        specifier: ^3.5.5
+        specifier: 3.10.1
         version: 3.10.1(eslint-plugin-import@2.32.0)(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)
       eslint-plugin-filenames-simple:
         specifier: 0.9.0
@@ -1090,13 +1090,13 @@ importers:
         specifier: 7.16.2
         version: 7.16.2(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       eslint-plugin-turbo:
-        specifier: ^2.8.3
+        specifier: 2.11.5
         version: 2.11.5(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(turbo@2.10.0)
       typescript:
         specifier: 5.9.3
         version: 5.9.3
       typescript-eslint:
-        specifier: ^8.47.0
+        specifier: 8.70.1
         version: 8.70.1(eslint@9.39.5(jiti@2.6.1)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
 
   packages/shared:
@@ -1108,7 +1108,7 @@ importers:
         specifier: 4.1.5
         version: 4.1.5(vitest@4.1.5)
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       tsdown:
         specifier: ^0.21.0
@@ -1141,7 +1141,7 @@ importers:
         specifier: ^7.0.0
         version: 7.2.0
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       gray-matter:
         specifier: 4.0.3
@@ -1256,7 +1256,7 @@ importers:
         specifier: workspace:*
         version: link:../../packages/eslint-config
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       typescript:
         specifier: 5.9.3
@@ -1302,7 +1302,7 @@ importers:
         specifier: 8.4.1
         version: 8.4.1(@babel/core@7.28.5(supports-color@8.1.1))(webpack@5.106.2)
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       process:
         specifier: 0.11.10
@@ -1339,7 +1339,7 @@ importers:
         specifier: 3.6.0
         version: 3.6.0
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
 
   tools/daily-challenges:
@@ -1351,7 +1351,7 @@ importers:
         specifier: 16.6.1
         version: 16.6.1
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       mongodb:
         specifier: 6.21.0
@@ -1375,7 +1375,7 @@ importers:
         specifier: 16.6.1
         version: 16.6.1
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       lodash:
         specifier: 4.18.1
@@ -1396,7 +1396,7 @@ importers:
         specifier: 16.6.1
         version: 16.6.1
       eslint:
-        specifier: ^9.39.1
+        specifier: 9.39.5
         version: 9.39.5(jiti@2.6.1)(supports-color@8.1.1)
       joi:
         specifier: 17.13.3
